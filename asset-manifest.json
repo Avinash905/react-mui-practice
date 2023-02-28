@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-mui-practice/static/css/main.fc5190f0.css",
+    "main.js": "/react-mui-practice/static/js/main.09f209ce.js",
+    "index.html": "/react-mui-practice/index.html",
+    "main.fc5190f0.css.map": "/react-mui-practice/static/css/main.fc5190f0.css.map",
+    "main.09f209ce.js.map": "/react-mui-practice/static/js/main.09f209ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5190f0.css",
+    "static/js/main.09f209ce.js"
+  ]
+}
